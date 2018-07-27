@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Spinner render correctly Spinner component 1`] = `
+<_class>
+  <Spinner
+    title="Please wait"
+  >
+    <div
+      className="spinner"
+    >
+      <div
+        className="spinner-overlay"
+      >
+         
+      </div>
+      <div
+        className="spinner-content"
+      >
+        <p
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "Please wait",
+            }
+          }
+        />
+        <Loader
+          loaderLineCount={8}
+        >
+          <div
+            className="loader"
+          >
+            <span
+              key="0"
+            />
+            <span
+              key="1"
+            />
+            <span
+              key="2"
+            />
+            <span
+              key="3"
+            />
+            <span
+              key="4"
+            />
+            <span
+              key="5"
+            />
+            <span
+              key="6"
+            />
+            <span
+              key="7"
+            />
+          </div>
+        </Loader>
+      </div>
+    </div>
+  </Spinner>
+</_class>
+`;

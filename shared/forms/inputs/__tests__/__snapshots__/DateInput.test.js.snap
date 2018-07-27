@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render DateInput render correctly date component 1`] = `
+<div
+  className="datepicker "
+>
+  <div>
+    <div
+      className="react-datepicker-wrapper"
+    >
+      <div
+        className="react-datepicker__input-container"
+      >
+        <input
+          autoComplete={undefined}
+          autoFocus={undefined}
+          className="input-custom"
+          disabled={false}
+          id={undefined}
+          name={undefined}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          placeholder={undefined}
+          readOnly={undefined}
+          required={undefined}
+          tabIndex={undefined}
+          title={undefined}
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render BaseFieldLayout render correctly BaseFieldLayout component 1`] = `
+<div
+  className="form-group"
+>
+  <label
+    className=" control-label"
+    htmlFor="field-name"
+  />
+  <div
+    className="control-field"
+  >
+    <div
+      className="control-element"
+    >
+      test case
+    </div>
+  </div>
+</div>
+`;

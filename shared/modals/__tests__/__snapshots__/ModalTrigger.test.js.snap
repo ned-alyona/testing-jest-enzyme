@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render ModalTrigger render component correctly 1`] = `
+Array [
+  <div
+    key="modal-control"
+    onClick={[Function]}
+  />,
+  <ModalWrapper
+    key="modal-dialog"
+    onHide={[Function]}
+    show={false}
+  />,
+]
+`;

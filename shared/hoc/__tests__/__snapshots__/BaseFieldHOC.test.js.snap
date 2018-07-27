@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render BaseFieldHOC render correctly component 1`] = `
+<div
+  className="form-group"
+>
+  <label
+    className=" control-label"
+    htmlFor="text-input"
+  />
+  <div
+    className="control-field"
+  >
+    <div
+      className="control-element"
+    >
+      text input
+    </div>
+  </div>
+</div>
+`;
